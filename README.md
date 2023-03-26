@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-
+- 🔭 I’m currently working on Wesnoth Community Fan Portal
+- 🌱 I’m currently learning ServiceNow CSA Exam preparation
+- 👯 I’m looking to collaborate on Open-Source Javascript projects
+- 🤔 I’m looking for help with becoming either FE or BE dev
+- 📫 How to reach me: csokan.palandras@gmail.com
+- ⚡ Fun fact: English is not my mother tongue.
 
 <!--
 **andrejmoltok/andrejmoltok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
