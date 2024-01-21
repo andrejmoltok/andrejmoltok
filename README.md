@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Wesnoth Community Fan Portal and my very own play-by-post FRPG + small other projects
-- 🌱 I’m currently learning ServiceNow CSA Exam preparation
+- 🌱 I’m currently learning ReactJS, NextJS and ServiceNow CSA Exam preparation
 - 👯 I’m looking to collaborate on Open-Source Javascript projects
 - 🤔 I’m looking for help with becoming either FE or BE dev
 - 📫 How to reach me: csokan.palandras@gmail.com
