@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Wesnoth Community Fan Portal and my very own play-by-post FRPG + small other projects
-- 🌱 I’m currently learning ReactJS, NextJS and ServiceNow CSA Exam preparation
+- 🔭 I’m currently working on `Hungarian Wesnoth Community Fan Portal`, a battleship clone game called `Oceans5` and my very own play-by-post FRPG called `Envoys Reborn`
+- 🌱 I’m currently learning `ReactJS`, `NextJS` and `ServiceNow CSA Exam` preparation
 - 👯 I’m looking to collaborate on Open-Source Javascript projects
-- 🤔 I’m looking for help with becoming either FE or BE dev
-- 📫 How to reach me: csokan.palandras@gmail.com
-- ⚡ Fun fact: English is not my mother tongue.
+- 🤔 I’m looking for help with becoming either Frontend or Backend dev
+- 📫 How to reach me: csokan.palandras@gmail.com or ciocanpa87@gmail.com
+- ⚡ Fun facts:
+1. English is not my mother tongue.
+2. I like to develop a template-like project and copy the functionality to the rest of my projects.
 
 <!--
 **andrejmoltok/andrejmoltok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
