@@ -8,6 +8,7 @@
 - ⚡ Fun facts:
 1. English is not my mother tongue.
 2. I like to develop a template-like project and copy the functionality to the rest of my projects.
+3. Still learning when, what and how to commit.
 
 <!--
 **andrejmoltok/andrejmoltok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
