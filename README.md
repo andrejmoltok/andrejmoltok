@@ -10,6 +10,16 @@
 2. I like to develop a template-like project and copy the functionality to the rest of my projects.
 3. Still learning when, what and how to commit.
 
+<details>
+  <summary><h2> <img align="center" src="https://github.com/andrejmoltok/andrejmoltok/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
+  <div align="center">
+    ![](https://github-readme-stats.vercel.app/api?username=andrejmoltok&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=andrejmoltok&theme=tokyonight&hide_border=false)<br/>
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrejmoltok&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+    ![](https://github-readme-activity-graph.vercel.app/graph?username=andrejmoltok&theme=tokyo-night)
+  </div>
+</details>
+
 <!--
 **andrejmoltok/andrejmoltok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
