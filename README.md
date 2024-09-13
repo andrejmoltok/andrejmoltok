@@ -10,7 +10,9 @@
 2. I like to develop a template-like project and copy the functionality to the rest of my projects.
 3. Still learning when, what and how to commit.
 
-<a href="https://app.daily.dev/arskeliss"><img src="./devcard.png" alt="Arskeliss's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/arskeliss"><img src="./devcard.png" alt="Arskeliss's Dev Card"/></a> -->
+
+[![roadmap.sh](https://roadmap.sh/card/tall/66d49532553501e3c383f3ce?variant=dark)](https://roadmap.sh)
 
 <details>
   <summary><h2> <img align="center" src="https://github.com/andrejmoltok/andrejmoltok/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
