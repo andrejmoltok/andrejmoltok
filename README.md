@@ -12,7 +12,7 @@
 
 <!-- <a href="https://app.daily.dev/arskeliss"><img src="./devcard.png" alt="Arskeliss's Dev Card"/></a> -->
 
-[![roadmap.sh](https://roadmap.sh/card/tall/66d49532553501e3c383f3ce?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/66d49532553501e3c383f3ce?variant=dark)](https://roadmap.sh)
 
 <details>
   <summary><h2> <img align="center" src="https://github.com/andrejmoltok/andrejmoltok/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
