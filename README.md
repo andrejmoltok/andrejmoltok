@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👯 I’m working on our own startup, called CheapHero, with my brother.
+- 🎆: I’m working on our own startup, called `CheapHero`, with my brother.
 - 🔭 I’m currently working on `Hungarian Wesnoth Community Fan Portal`, a battleship clone game called `Oceans5` and my very own play-by-post FRPG called `Envoys Reborn`
 - 🌱 I’m currently learning `ReactJS`, `NextJS` and `ServiceNow CSA Exam` preparation
 - 👯 I’m looking to collaborate on Open-Source Javascript projects
