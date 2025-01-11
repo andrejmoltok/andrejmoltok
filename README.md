@@ -29,6 +29,16 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=andrejmoltok)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=andrejmoltok&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/andrejmoltok"
+    width="600"
+    height="120"
+  />
+</a>
+  
+
 <!--
 **andrejmoltok/andrejmoltok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
