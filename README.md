@@ -2,7 +2,7 @@
 
 - 🎆: I’m working on our own startup, called `CheapHero`, with my brother.
 - 🔭 I’m currently working on `Hungarian Wesnoth Community Fan Portal`, a battleship clone game called `Oceans5` and my very own play-by-post FRPG called `Envoys Reborn`
-- 🌱 I’m currently learning `ReactJS`, `NextJS` and `ServiceNow CSA Exam` preparation
+- 🌱 I’m currently learning `HTML`,`CSS`,`JavaScript`, `React`, and preparing for `ServiceNow CSA, Scripting, CAD, ITSM`
 - 👯 I’m looking to collaborate on Open-Source Javascript projects
 - 🤔 I’m looking for help with becoming either Frontend or Backend dev
 - 📫 How to reach me: csokan.palandras@gmail.com or ciocanpa87@gmail.com
@@ -10,12 +10,6 @@
 1. English is not my mother tongue, still needs to be perfected. I speak Native Hungarian and Beginner Romanian. Wish to learn Dutch, German, Spanish and Japanese.
 2. I like to develop a template-like project and copy the functionality to the rest of my projects.
 3. Still learning when, what and how to commit.
-
-<!-- <a href="https://app.daily.dev/arskeliss"><img src="./devcard.png" alt="Arskeliss's Dev Card"/></a> -->
-
-[![roadmap.sh](https://roadmap.sh/card/wide/66d49532553501e3c383f3ce?variant=dark)](https://roadmap.sh)
-
-<a href="https://app.daily.dev/arskeliss"><img src="./devcard.png" width="356" alt="Francesco's Dev Card"/></a>
 
 <details>
   <summary><h2> <img align="center" src="https://github.com/andrejmoltok/andrejmoltok/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
