@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🎆: I’m working on our own startup, called `CheapHero`, with my brother.
-- 🔭 I’m currently working on `Hungarian Wesnoth Community Fan Portal`, a battleship clone game called `Oceans5` and my very own play-by-post FRPG called `Envoys Reborn`
+- 🔭 POSTPONED: I’m currently working on `Hungarian Wesnoth Community Fan Portal`, a battleship clone game called `Oceans5` and my very own play-by-post FRPG called `Envoys Reborn` :POSTPONED
 - 🌱 I’m currently learning `HTML`,`CSS`,`JavaScript`, `React`, `Redux`, `Typescript` & currently post-poned the preparing for `ServiceNow CSA, Scripting, CAD, ITSM`
 - 👯 I’m looking to collaborate on Open-Source Javascript projects
 - 📫 How to reach me: csokan.palandras@gmail.com or ciocanpa87@gmail.com
