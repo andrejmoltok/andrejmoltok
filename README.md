@@ -2,12 +2,11 @@
 
 - 🎆: I’m working on our own startup, called `CheapHero`, with my brother.
 - 🔭 I’m currently working on `Hungarian Wesnoth Community Fan Portal`, a battleship clone game called `Oceans5` and my very own play-by-post FRPG called `Envoys Reborn`
-- 🌱 I’m currently learning `HTML`,`CSS`,`JavaScript`, `React`, and preparing for `ServiceNow CSA, Scripting, CAD, ITSM`
+- 🌱 I’m currently learning `HTML`,`CSS`,`JavaScript`, `React`, `Redux`, `Typescript` & currently post-poned the preparing for `ServiceNow CSA, Scripting, CAD, ITSM`
 - 👯 I’m looking to collaborate on Open-Source Javascript projects
-- 🤔 I’m looking for help with becoming either Frontend or Backend dev
 - 📫 How to reach me: csokan.palandras@gmail.com or ciocanpa87@gmail.com
 - ⚡ Fun facts:
-1. English is not my mother tongue, still needs to be perfected. I speak Native Hungarian and Beginner Romanian. Wish to learn Dutch, German, Spanish and Japanese.
+1. English is not my mother tongue, still needs to be perfected. I speak Native Hungarian and Intermediate Romanian. Wish to learn Dutch, German, Spanish and Japanese.
 2. I like to develop a template-like project and copy the functionality to the rest of my projects.
 3. Still learning when, what and how to commit.
 
