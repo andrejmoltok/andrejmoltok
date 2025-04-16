@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🎆: I’m a Junior Javascript Developer, studied at [NIX](https://github.com/nixsolutions), Budapest, in their 4 month intensive course.
 - 🎆: I’m working on our own startup, called `CheapHero`, with my brother.
 - 🔭 POSTPONED: I’m currently working on `Hungarian Wesnoth Community Fan Portal`, a battleship clone game called `Oceans5` and my very own play-by-post FRPG called `Envoys Reborn` :POSTPONED
 - 🌱 I’m currently learning `HTML`,`CSS`,`JavaScript`, `React`, `Redux`, `Typescript` & currently post-poned the preparing for `ServiceNow CSA, Scripting, CAD, ITSM`
